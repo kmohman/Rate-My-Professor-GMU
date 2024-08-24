@@ -1,0 +1,184 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Susan White",
+      "subject": "CS 112 - Introduction to Computer Programming",
+      "stars": 4.9,
+      "review": "Amazing professor, explains complex concepts clearly."
+    },
+    {
+      "professor": "Dr. Mark Rogers",
+      "subject": "CS 330 - Formal Methods and Models",
+      "stars": 4.7,
+      "review": "Engaging lectures and thorough understanding of formal methods."
+    },
+    {
+      "professor": "Prof. Linda Thompson",
+      "subject": "CS 262 - Introduction to Low-Level Programming",
+      "stars": 4.6,
+      "review": "Fantastic teaching style, makes complex systems easy to understand."
+    },
+    {
+      "professor": "Dr. Michael Johnson",
+      "subject": "CS 455 - Computer Communications and Networking",
+      "stars": 4.8,
+      "review": "Expert in networking, makes difficult topics accessible."
+    },
+    {
+      "professor": "Prof. Emily Davis",
+      "subject": "CS 211 - Object-Oriented Programming",
+      "stars": 4.7,
+      "review": "Very supportive and great at explaining object-oriented principles."
+    },
+    {
+      "professor": "Dr. Richard Lee",
+      "subject": "CS 262 - Introduction to Low-Level Programming",
+      "stars": 4.5,
+      "review": "Clear explanations and practical examples."
+    },
+    {
+      "professor": "Prof. John Peterson",
+      "subject": "CS 310 - Data Structures",
+      "stars": 4.7,
+      "review": "Excellent at breaking down complex data structures."
+    },
+    {
+      "professor": "Dr. Sarah Williams",
+      "subject": "CS 450 - Database Concepts",
+      "stars": 4.8,
+      "review": "Incredibly knowledgeable in AI, very inspiring."
+    },
+    {
+      "professor": "Prof. David Brown",
+      "subject": "CS 471 - Operating Systems",
+      "stars": 4.6,
+      "review": "Operating systems course was challenging but well-organized."
+    },
+    {
+      "professor": "Dr. Jessica Green",
+      "subject": "CS 321 - Software Engineering",
+      "stars": 4.7,
+      "review": "Very engaging software engineering course with practical projects."
+    },
+    {
+      "professor": "Prof. Alan Moore",
+      "subject": "CS 262 - Introduction to Low-Level Programming",
+      "stars": 4.5,
+      "review": "Great explanations, makes low-level programming easier."
+    },
+    {
+      "professor": "Dr. Maria Lopez",
+      "subject": "CS 330 - Formal Methods and Models",
+      "stars": 4.8,
+      "review": "Amazing professor, makes difficult topics accessible."
+    },
+    {
+      "professor": "Prof. Kevin White",
+      "subject": "CS 112 - Introduction to Computer Programming",
+      "stars": 4.6,
+      "review": "Very supportive, helps students understand the basics."
+    },
+    {
+      "professor": "Dr. Olivia Harris",
+      "subject": "CS 471 - Operating Systems",
+      "stars": 4.7,
+      "review": "Operating systems course was very detailed and well-organized."
+    },
+    {
+      "professor": "Prof. William Carter",
+      "subject": "CS 262 - Introduction to Low-Level Programming",
+      "stars": 4.5,
+      "review": "Great professor, explains low-level programming clearly."
+    },
+    {
+      "professor": "Dr. Lisa Brown",
+      "subject": "CS 330 - Formal Methods and Models",
+      "stars": 4.8,
+      "review": "Excellent professor, makes complex concepts clear."
+    },
+    {
+      "professor": "Prof. James Allen",
+      "subject": "CS 112 - Introduction to Computer Programming",
+      "stars": 4.6,
+      "review": "Supportive and great at explaining programming basics."
+    },
+    {
+      "professor": "Dr. Patricia Clark",
+      "subject": "CS 471 - Operating Systems",
+      "stars": 4.7,
+      "review": "Operating systems course was very challenging but rewarding."
+    },
+    {
+      "professor": "Prof. Michael Lewis",
+      "subject": "CS 262 - Introduction to Low-Level Programming",
+      "stars": 4.5,
+      "review": "Great at explaining complex programming concepts."
+    },
+    {
+      "professor": "Dr. Karen Young",
+      "subject": "CS 330 - Formal Methods and Models",
+      "stars": 4.8,
+      "review": "Fantastic professor, makes formal methods accessible."
+    },
+    {
+      "professor": "Prof. Robert Scott",
+      "subject": "CS 112 - Introduction to Computer Programming",
+      "stars": 4.6,
+      "review": "Supportive, helps students grasp programming basics."
+    },
+    {
+      "professor": "Dr. Emily Walker",
+      "subject": "CS 471 - Operating Systems",
+      "stars": 4.7,
+      "review": "Operating systems course was tough but fair."
+    },
+    {
+      "professor": "Prof. Thomas Anderson",
+      "subject": "CS 262 - Introduction to Low-Level Programming",
+      "stars": 4.5,
+      "review": "Great professor, makes low-level programming easier."
+    },
+    {
+      "professor": "Dr. Nancy Adams",
+      "subject": "CS 330 - Formal Methods and Models",
+      "stars": 4.8,
+      "review": "Excellent at making complex topics understandable."
+    },
+    {
+      "professor": "Prof. Christopher Brown",
+      "subject": "CS 112 - Introduction to Computer Programming",
+      "stars": 4.6,
+      "review": "Very supportive, helps students succeed."
+    },
+    {
+      "professor": "Dr. Anna Parker",
+      "subject": "CS 471 - Operating Systems",
+      "stars": 4.7,
+      "review": "Very knowledgeable in operating systems."
+    },
+    {
+      "professor": "Prof. James Roberts",
+      "subject": "CS 262 - Introduction to Low-Level Programming",
+      "stars": 4.5,
+      "review": "Great professor, clear and engaging."
+    },
+    {
+      "professor": "Dr. Elizabeth Harris",
+      "subject": "CS 330 - Formal Methods and Models",
+      "stars": 4.8,
+      "review": "Incredibly knowledgeable and supportive."
+    },
+    {
+      "professor": "Prof. Kevin Thomas",
+      "subject": "CS 112 - Introduction to Computer Programming",
+      "stars": 4.6,
+      "review": "Great at explaining programming fundamentals."
+    },
+    {
+      "professor": "Dr. Laura Johnson",
+      "subject": "CS 471 - Operating Systems",
+      "stars": 4.7,
+      "review": "Very detailed and knowledgeable in operating systems."
+    }
+  ]
+}
